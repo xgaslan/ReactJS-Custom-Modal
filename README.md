@@ -1,3 +1,5 @@
+![modal](https://github.com/xgaslan/ReactJS-Custom-Modal/blob/master/public/modal.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
